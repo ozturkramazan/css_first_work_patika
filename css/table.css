@@ -1,0 +1,37 @@
+#basarilar_tr_ligi {
+    font-size: 30px;
+    /* text-align: center; */
+    margin-right: auto;
+    margin-left: auto;
+    /* color: red; */
+
+}
+
+#basarilar_tr_kupasi {
+    /* color: red; */
+    font-size: 30px;
+    table-layout: var(top);
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#basarilar_tr_super_kupasi{
+    font-size: 30px;
+    table-layout: var(top);
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+#tsl_tb{
+    color: rgb(191, 76, 4);
+}
+#tsl_th{
+    color: rgb(67, 65, 65);
+}
+
+body {
+
+    background-image: url(https://e1.pxfuel.com/desktop-wallpaper/735/86/desktop-wallpaper-black-and-white-eagle-black-eagle.jpg);
+    text-align: center;
+}
